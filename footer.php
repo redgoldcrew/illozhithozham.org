@@ -35,7 +35,7 @@
                <div class="footer-bottom clearfix">
                     <div class="col-md-6 col-sm-6 no-padding-left">
                         <div class="f-bottom-left-text">
-                            <p>Illozhithozhamarakattalai © All Rights Reserved. Designed by <span><a href="#">skandteams.com</a></span> </p>
+                            <p>Illozhithozhamarakattalai © All Rights Reserved. Designed by <span><a href="https://redgoldcrew.in/">redgoldcrew.in</a></span> </p>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6 no-padding-right">
