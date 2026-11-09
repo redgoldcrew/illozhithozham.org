@@ -225,27 +225,27 @@
                         <div class="asset-content">
                             <h2>Story <br>& History <span>01.</span></h2>
                             <p>A group of youngsters planned to do some needful to the society. On 1st October 2018, the team registered the organization as ILLOZHITHOZHAM ARAKATTALAI which means the team eradicates the deprivation of needs from the society.</p>
-                            <a href="aboutus.php">More <span><i class="fa fa-long-arrow-right"></i></span></a>
+                            <a href="/aboutus">More <span><i class="fa fa-long-arrow-right"></i></span></a>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-4">
                         <div class="asset-content">
                             <h2>Values<br>& Vision <span>02.</span></h2>
                             <p>The ultimate goal is to eradicate the deprivation of needs, discrimination, inequality, poverty and illiteracy, and empower people to establish social justice, peace and harmony.</p>
-                            <a href="aboutus.php">More <span><i class="fa fa-long-arrow-right"></i></span></a>
+                            <a href="/aboutus">More <span><i class="fa fa-long-arrow-right"></i></span></a>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-4">
                         <div class="asset-content">
                             <h2>Mission<br>& Services <span>03.</span></h2>
                             <p>Provide proper and good quality Education for each and every one in the society. Facilitate the basic needs for each and every one in our society equally. Create awareness among the people about the common issues and information they need in their day-to-day life.</p>
-                            <a href="aboutus.php">More <span><i class="fa fa-long-arrow-right"></i></span></a>
+                            <a href="/aboutus">More <span><i class="fa fa-long-arrow-right"></i></span></a>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="asset-button text-center">
-                        <button href="aboutus.php" type="button" class="btn btn-default">Find Out More About Trust</button>
+                        <button href="/aboutus" type="button" class="btn btn-default">Find Out More About Trust</button>
                     </div>
                 </div>
             </div>
@@ -287,7 +287,7 @@
                                 <img src="images/Our-images/Event-1.jpg" class="img-responsive" alt="">
                                 <h2><a href="#">Awareness programs</a></h2>
                                 <p>If the community or an institution lacks the knowledge on certain issues and problems, we’ll provide the knowledge with the help of the experts in the particular topic and create awareness among them.</p>
-                                <a href="aboutus.php">More <i class="fa fa-long-arrow-right"></i></a>
+                                <a href="/aboutus">More <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -297,7 +297,7 @@
                                 <img src="images/Our-images/Event-2.jpg" class="img-responsive" alt="">
                                 <h2><a href="#">Free Medical camps</a></h2>
                                 <p>If the community lacks basic medical facility such as primary health centers, dispensaries and nursing stations, we’ll arrange medical camps under the guidance of medical professionals and the support of the local community leaders. </p>
-                                <a href="aboutus.php">More <i class="fa fa-long-arrow-right"></i></a>
+                                <a href="/aboutus">More <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -307,7 +307,7 @@
                                 <img src="images/Our-images/Event-3.jpg" class="img-responsive" alt="">
                                 <h2><a href="#">Hariram Memorial Scholarship</a></h2>
                                 <p>A scheme through we select the students from Government and Government-aided schools through examinations and provide Rs.1000 each at every anniversary.</p>
-                                <a href="aboutus.php">More <i class="fa fa-long-arrow-right"></i></a>
+                                <a href="/aboutus">More <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
