@@ -4,8 +4,44 @@
   command = "bash build.sh"
   publish = "dist"
 
-# Existing links point at *.php — serve the pre-rendered HTML at those URLs.
+# Old *.php URLs permanently redirect to the clean pre-rendered pages.
+# (Netlify placeholders must match a whole path segment, so each page is listed.)
 [[redirects]]
-  from = "/:page.php"
-  to = "/:page.html"
-  status = 200
+  from = "/index.php"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/event.php"
+  to = "/event"
+  status = 301
+
+[[redirects]]
+  from = "/admins.php"
+  to = "/admins"
+  status = 301
+
+[[redirects]]
+  from = "/aboutus.php"
+  to = "/aboutus"
+  status = 301
+
+[[redirects]]
+  from = "/contactus.php"
+  to = "/contactus"
+  status = 301
+
+[[redirects]]
+  from = "/registration.php"
+  to = "/registration"
+  status = 301
+
+[[redirects]]
+  from = "/volunteer.php"
+  to = "/volunteer"
+  status = 301
+
+[[redirects]]
+  from = "/sponser.php"
+  to = "/sponser"
+  status = 301

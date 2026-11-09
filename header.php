@@ -15,7 +15,7 @@
         <div class="container custom-header">
             <div class="row">
                 <div id="menuzord" class="menuzord">
-                   <a href="index.php" class="menuzord-brand"><img src="images/Our-images/ITA-LOGO.jpg" width="100" height="60" alt="">
+                   <a href="/" class="menuzord-brand"><img src="images/Our-images/ITA-LOGO.jpg" width="100" height="60" alt="">
                     <div class="headname">Illozhithozham</div> </a>
                    <div class="header-contact">
                         <ul>
@@ -24,17 +24,17 @@
                         </ul>
                    </div>                 
                    <ul class="menuzord-menu menuzord-menu-bg">
-                        <li  class="<?php if($page == 'index.php'){ echo ' active"';}?>"><a href="index.php">HOME</a>
+                        <li  class="<?php if($page == 'index.php'){ echo 'active';}?>"><a href="/">HOME</a>
                         </li>
-						 <li class="<?php if($page == 'event.php'){ echo ' active"';}?>"><a href="event.php">EVENT</a>
+						 <li class="<?php if($page == 'event.php'){ echo 'active';}?>"><a href="/event">EVENT</a>
                         </li>
-						<li class="<?php if($page == 'admins.php'){ echo ' active"';}?>"><a href="admins.php">ADMINISTRATORS</a>
+						<li class="<?php if($page == 'admins.php'){ echo 'active';}?>"><a href="/admins">ADMINISTRATORS</a>
                         </li>
-                        <li class="<?php if($page == 'aboutus.php'){ echo ' active"';}?>"><a href="aboutus.php">ABOUT US</a>
+                        <li class="<?php if($page == 'aboutus.php'){ echo 'active';}?>"><a href="/aboutus">ABOUT US</a>
                       </li>
-                        <li class="<?php if($page == 'contactus.php'){ echo ' active"';}?>"><a href="contactus.php">CONTACT US</a>
+                        <li class="<?php if($page == 'contactus.php'){ echo 'active';}?>"><a href="/contactus">CONTACT US</a>
                         </li>
-						<li class="<?php if($page == 'registration.php'){ echo ' active"';}?>"><a href="#" data-toggle="modal" data-target="#myModal">REGISTRATION</a>
+						<li class="<?php if($page == 'registration.php'){ echo 'active';}?>"><a href="#" data-toggle="modal" data-target="#myModal">REGISTRATION</a>
                         </li>
                    </ul>
                 </div>

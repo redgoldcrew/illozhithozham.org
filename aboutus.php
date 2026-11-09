@@ -97,7 +97,7 @@
                     </div>
                     <div class="col-xs-12 col-sm-6">
                         <div class="asset-button btn-text-left text-right top-margin">
-                            <button type="button" class="btn btn-default" > <a href="contactus.php">Find Out More About Trust </a></button>
+                            <button type="button" class="btn btn-default" > <a href="/contactus">Find Out More About Trust </a></button>
                         </div>
                     </div>
                 </div>
@@ -204,7 +204,7 @@
                     </div>
                     <div class="col-xs-12 col-sm-6">
                         <div class="asset-button btn-text-left text-right top-margin">
-                            <button type="button" class="btn btn-default"><a href="event.php">View All Event</a></button>
+                            <button type="button" class="btn btn-default"><a href="/event">View All Event</a></button>
                         </div>
                     </div>
                 </div>
@@ -221,7 +221,7 @@
                                 <i class="fa fa-book"></i>
                                 <h2><a href="#">Awareness programs</a></h2>
                                 <p>If the community or an institution lacks the knowledge on certain issues and problems, we’ll provide the knowledge with the help of the experts in the particular topic and create awareness among them.</p>
-                                <a href="event.php">More <i class="fa fa-long-arrow-right"></i></a>
+                                <a href="/event">More <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -231,7 +231,7 @@
                                 <i class="fa  fa-graduation-cap"></i>
                                 <h2><a href="#">Hariram Memorial Scholarship</a></h2>
                                 <p>A scheme through we select the students from Government and government-aided schools through examinations and provide Rs.1000 each at every anniversary.</p>
-                                <a href="event.php">More <i class="fa fa-long-arrow-right"></i></a>
+                                <a href="/event">More <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -241,7 +241,7 @@
                                 <i class="fa fa-female"></i>
                                 <h2><a href="#">Free Medical camps</a></h2>
                                 <p>If the community lacks basic medical facility such as primary health centers, dispensaries and nursing stations, we’ll arrange medical camps under the guidance of medical professionals and the support of the local community leaders.</p>
-                               <a href="event.php">More <i class="fa fa-long-arrow-right"></i></a>
+                               <a href="/event">More <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -251,7 +251,7 @@
                                 <i class="fa fa-eye"></i>
                                 <h2><a href="#">Trainings and workshops</a></h2>
                                 <p> We are conducting various training programs and workshops based on the needs of the community. It may include self-help training, stress management, leadership skills, life skills, first aid and so on.</p>
-                                <a href="event.php">More <i class="fa fa-long-arrow-right"></i></a>
+                                <a href="/event">More <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
