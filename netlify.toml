@@ -1,0 +1,11 @@
+# Netlify has no PHP runtime at request time, so pages are rendered to static
+# HTML at build time using the PHP CLI available in the build image.
+[build]
+  command = "bash build.sh"
+  publish = "dist"
+
+# Existing links point at *.php — serve the pre-rendered HTML at those URLs.
+[[redirects]]
+  from = "/:page.php"
+  to = "/:page.html"
+  status = 200
